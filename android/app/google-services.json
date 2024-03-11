@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943930029724",
+    "firebase_url": "https://loveyourpet-c109b-default-rtdb.firebaseio.com",
+    "project_id": "loveyourpet-c109b",
+    "storage_bucket": "loveyourpet-c109b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943930029724:android:b67ee9f0b4abf69a67df59",
+        "android_client_info": {
+          "package_name": "com.example.pet_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-GZGGoMKuSYyyUG7tIYUd82pWaYLNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
